@@ -1,0 +1,10 @@
+import array
+#Inisialisasi Variable Berformat Array 
+Angka = [1,2,3,4,5]
+Nama = ["Egi","Usmar","Afan","Ega","Erney"]
+
+print (Angka)
+print (Nama)
+
+
+
